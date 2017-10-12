@@ -1,7 +1,6 @@
 /*
 * @author Craig Sullivan
 * 11/05/2017
-* May 2017 Exam
 * DiscountApp.java
 */
 
